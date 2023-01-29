@@ -1,0 +1,32 @@
+    Report created on 11/24/2022
+		****************************
+
+
+Faculty Members:
+-------------------------
+	1. John Miller
+	ID: jo7894
+	Engineering, Professor
+
+
+
+Staff Members
+-------------------
+	1. amal Kareem
+	ID: ja6980
+	Sciences, Full Time
+
+
+
+Students (Sorted by gpa)
+-------------------------
+	1. Julia Alvarez
+	ID: ju1254
+	GPA: 3.26
+	Credit hours: 7
+
+	2. Matt Jones
+	ID: ma0258
+	GPA: 2.78
+	Credit hours: 0
+
